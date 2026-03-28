@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ヴェルヴェット / ソフィア・ヴァレンタイン【 Original Song 】",
+  "base_artist": "ソフィア・ヴァレンタイン / Sophia Valentine【にじさんじ】",
+  "createdAt": "2026-03-28T21:00:54.136512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヴェルヴェット",
+      "artist": "Alice Nine",
+      "has_synced": true,
+      "path": "select/01_ヴェルヴェット_Alice_Nine.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヴェルヴェット",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": false,
+      "path": "select/02_ヴェルヴェット_Thee_Michelle_Gun_Elephant.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヴェルヴェット",
+      "artist": "アリス九號.",
+      "has_synced": true,
+      "path": "select/03_ヴェルヴェット_アリス九號..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヴェルヴェット",
+      "artist": "ソフィア・ヴァレンタイン",
+      "has_synced": false,
+      "path": "select/pl_01_ヴェルヴェット_ソフィア・ヴァレンタイン.txt"
+    }
+  ]
+}
